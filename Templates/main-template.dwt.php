@@ -23,7 +23,8 @@
       <td align="left" valign="top"><table width="100%" height="495%" border="1">
         <tbody>
           <tr>
-<!-- InstanceBeginEditable name="content" --><td width="64%" height="2261" align="left" valign="top" style="color: #FFFFFF">can i do this&nbsp;</td>
+<!-- InstanceBeginEditable name="content" -->
+<td width="64%" height="2261" align="left" valign="top" style="color: #FFFFFF">can i do this&nbsp;</td>
             <td width="36%" align="left" valign="top"><a href="https://deepfriedmemes.com/"><img src="../images/ist.jpg" alt="ad" width="518" height="225" title="ad"style="color: #FFFFFF"/> click above to deep fry you images </td>
           </tr>
         </tbody>
