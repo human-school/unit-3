@@ -24,11 +24,11 @@
       <td align="left" valign="top"><table width="100%" height="495%" border="0">
         <tbody>
           <tr>
-            <td width="64%" height="2261" align="left" valign="top" style="color: #FFFFFF" >
-              <table width="100%" height="1212" border="0" align="right">
+            <td width="64%" height="100%" align="left" valign="top" style="color: #FFFFFF" >
+              <table width="100%" height="100%" border="0" align="right">
                 <tbody>
                   <tr>
-                    <td width="73%" align="left" valign="top" style="color: #FFFFFF"><!-- InstanceBeginEditable name="main" --><p><br role="presentation">
+                    <td width="73%" height="100%" align="left" valign="top" style="color: #FFFFFF"><!-- InstanceBeginEditable name="main" --><p><br role="presentation">
                       <span role="presentation" dir="ltr">A podcast is a series of spoken words in the format of audio episodes. All of which is focused on a </span><br role="presentation">
                       <span role="presentation" dir="ltr">specific topic or theme.</span><br role="presentation">
                       <span role="presentation" dir="ltr">Identify Current Australian laws for reproducing music files for broadcast:</span><br role="presentation">
@@ -54,12 +54,10 @@
 					  <td width="27%" align="right" valign="top" style="color: #FFFFFF"><table width="100%" border="0">
 					    <tbody>
 					      <tr>
-					        <td height="330" align="center"><p><a href="https://deepfriedmemes.com/"><img src="images/deepfried_1653482673344.jpg" alt="ad_deepfry" width="400" height="403" title="ad_deepfry"/></a></p>
-<p><a href="https://deepfriedmemes.com/">click above to deep fry you images</a></p></td>
+					        <td height="330" align="center"><p><a href="https://deepfriedmemes.com/" title="ad_deepfry"><img src="images/deepfried_1653482673344.jpg" alt="ad_deepfry" width="400" height="403" title="ad_deepfry" border="0"/></a></p>
+<p><a href="https://deepfriedmemes.com/" title="ad_deepfry">click above to deep fry you images</a></p></td>
 				          </tr>
-					      <tr>
-					        <td height="340">&nbsp;</td>
-				          </tr>
+					      
 				        </tbody>
 				      </table></td>
                   </tr>
