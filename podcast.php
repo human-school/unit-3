@@ -32,16 +32,14 @@
                       <p>This podcast, done by John and Anthony, our presenters, features news of the war between Russia and Ukraine. Expect controversial topics, some neat facts and be prepared to listen</p><p>
                       <audio title="podcast" controls="controls" >
                         <source src="audio/IST radio for humans russia ukraine-1.mp3" type="audio/mp3">
-                        Your browser does not support the audio element.
-  <p>podcast</p>
-                      </audio>
+                        Your browser does not support the audio element. </audio>
                       </p>
                   <!-- InstanceEndEditable --></td>
 					  <td width="27%" align="right" valign="top" style="color: #FFFFFF"><table width="100%" border="0">
 					    <tbody>
 					      <tr>
 					        <td height="330" align="center"><p><a href="https://deepfriedmemes.com/" title="ad_deepfry"><img src="images/deepfried_1653482673344.jpg" alt="ad_deepfry" width="400" height="403" title="ad_deepfry" border="0"/></a></p>
-<p><a href="https://deepfriedmemes.com/" title="ad_deepfry">click above to deep fry you images</a></p></td>
+<p><a href="https://deepfriedmemes.com/" title="ad_deepfry">click above to deep fry your images</a></p></td>
 				          </tr>
 					      
 				        </tbody>

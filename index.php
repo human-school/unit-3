@@ -41,7 +41,7 @@
 					    <tbody>
 					      <tr>
 					        <td height="330" align="center"><p><a href="https://deepfriedmemes.com/" title="ad_deepfry"><img src="images/deepfried_1653482673344.jpg" alt="ad_deepfry" width="400" height="403" title="ad_deepfry" border="0"/></a></p>
-<p><a href="https://deepfriedmemes.com/" title="ad_deepfry">click above to deep fry you images</a></p></td>
+<p><a href="https://deepfriedmemes.com/" title="ad_deepfry">click above to deep fry your images</a></p></td>
 				          </tr>
 					      
 				        </tbody>
